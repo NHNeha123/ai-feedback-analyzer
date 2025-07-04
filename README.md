@@ -29,9 +29,9 @@ An AI-powered customer feedback analyzer that automatically summarizes responses
 
 | Google Form | Google Sheet | Zapier Workflow |
 |-------------|--------------|------------------|
-| ![Form](screenshots/form.png) | ![Sheet](screenshots/sheet-output.png) | ![Zapier](screenshots/zapier-flow.png) |
+| ![Form](screenshots/Form.png) | ![Sheet](screenshots/sheet-output.png) | ![Zapier](screenshots/zapier-flow.png) |
 
-> Add your actual screenshots in the `/screenshots` folder for better visual impact.
+
 
 ---
 
