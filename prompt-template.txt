@@ -1,0 +1,10 @@
+Analyze the following customer feedback and provide:
+1. A short summary
+2. Sentiment (Positive/Neutral/Negative)
+3. Suggestions for improvement
+
+Feedback:
+Liked Most: {{COL$C}}
+Areas to Improve: {{COL$D}}
+Satisfaction Rating (1–5): {{COL$E}}
+Recommendation: {{COL$F}}
