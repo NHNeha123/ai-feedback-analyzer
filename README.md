@@ -54,3 +54,9 @@ ai-feedback-analyzer/
 │ ├── sheet-output.png
 │ └── zapier-flow.png
 ├── prompt-template.txt 💬 AI prompt used in Zapier
+
+## 📂 Sample Feedback File
+
+A sample-feedback.csv is provided in the repo to demonstrate real form input and AI-generated summaries.
+
+
