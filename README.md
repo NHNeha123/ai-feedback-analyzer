@@ -60,3 +60,4 @@ ai-feedback-analyzer/
 A sample-feedback.csv is provided in the repo to demonstrate real form input and AI-generated summaries.
 
 📝 **[Try the Live Feedback Form]** (https://forms.gle/e3es8yS9iQviXvFaA)
+📊 **[View Sample Google Sheet (Read-Only)]** (https://docs.google.com/spreadsheets/d/1JbKqN2YLNt78PJRH6wnhyfDdF6Y7zzFSiZCo6rR6QaA/view)
